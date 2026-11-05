@@ -1,0 +1,15 @@
+.venv/
+
+.env
+.env.local
+
+__pychache__/
+*.pyc
+*.pyo 
+dist/
+build/  
+
+data/private/
+vscode/settings.json
+
+EOF
